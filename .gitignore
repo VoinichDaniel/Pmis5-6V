@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/app/
+/arch/
+/build/
+/buildSrc/
+/common/
+/data/
+/domain/
+/feature/
+/gradle/
+/impl/
